@@ -16,10 +16,10 @@ Aspiring Software Developer | Passionate Learner | Curious Mind
 
 🛠️ Tech Stack & Skills  
 Languages: 
-Python Java C  
+Python, C  
 
 Web & Tools: 
-HTML CSS JavaScript Git GitHub VS Code
+HTML CSS JavaScript Git GitHub VS Code Figma
 
 Other Interests:
 AI/ML Cloud DSA
